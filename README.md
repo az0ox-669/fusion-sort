@@ -1,4 +1,4 @@
-Bien sûr, voici une documentation pour expliquer le fonctionnement de la fonction `fusion_sort`, ainsi que les fonctions auxiliaires `merge_sort`, `merge`, et `print_steps`.
+voici une documentation pour expliquer le fonctionnement de la fonction `fusion_sort`, ainsi que les fonctions auxiliaires `merge_sort`, `merge`, et `print_steps`.
 
 ---
 
